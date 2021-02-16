@@ -10,4 +10,6 @@
 
 -make apply - Applies the infrastructure plan
 
+-make connect - connect to the EC2 instance
+
 -make down - Destroys / tears down the infrastructure
